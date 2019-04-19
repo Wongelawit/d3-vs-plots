@@ -1,0 +1,26 @@
+{
+  "name": "d3-vs-plots",
+  "version": "1.0.0",
+  "description": "Visual Sceince Plots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wongelawit/d3-vs-plots.git"
+  },
+  "keywords": [
+    "d3",
+    "visual",
+    "science",
+    "plot",
+    "graphs"
+  ],
+  "author": "Wongelawit Teka Zewde, Caitlin Coyiutoc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wongelawit/d3-vs-plots/issues"
+  },
+  "homepage": "https://github.com/Wongelawit/d3-vs-plots#readme"
+}
