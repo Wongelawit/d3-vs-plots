@@ -9,6 +9,8 @@
 
 
 ## Scatter Plot
+#### Scatter Plot
+![Scatter plot](images/Scatter.PNG)
 
 ```javascript
 const attributes = {
@@ -39,7 +41,7 @@ const attributes = {
 ```
 
 ## Ring Plot
-
+![Ring Plot](images/Ring.png) 
 ```javascript
 const attributes = {
   dataset: [] //Array of dataset
@@ -56,7 +58,7 @@ const attributes = {
   import * as plots from 'd3-vs-plots';
 
   componentDidMount() {
-    plots.scatter_plot.create_scatter_plot(attributes)
+    plots.scatter_plot.create_ring_plot(attributes)
   }
 
   render() {
